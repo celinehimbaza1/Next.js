@@ -1,0 +1,65 @@
+[
+  {
+    "title": "Fluffy Pancakes",
+    "slug": "fluffy-pancakes",
+    "image": "pan.jpg",
+    "ingredients": [
+      "1 1/2 cups all-purpose flour",
+      "3 1/2 tsp baking powder",
+      "1 tsp salt",
+      "1 tbsp white sugar",
+      "1 1/4 cups milk",
+      "1 egg",
+      "3 tbsp butter, melted"
+    ],
+    "steps": [
+      "In a large bowl, sift together the flour, baking powder, salt and sugar.",
+      "Make a well in the center and pour in the milk, egg and melted butter; mix until smooth.",
+      "Heat a lightly oiled griddle over medium-high heat.",
+      "Pour or scoop the batter onto the griddle, using approximately 1/4 cup for each pancake.",
+      "Brown on both sides and serve hot."
+    ]
+  },
+  {
+    "title": "Cheesy Pizza",
+    "slug": "cheesy-pizza",
+    "image": "piza.jpg",
+    "ingredients": [
+      "1 pizza dough",
+      "1/2 cup tomato sauce",
+      "1 cup mozzarella cheese",
+      "1/2 tsp oregano",
+      "Toppings of your choice"
+    ],
+    "steps": [
+      "Preheat the oven to 475°F (245°C).",
+      "Roll out the pizza dough on a floured surface.",
+      "Spread the tomato sauce over the dough.",
+      "Sprinkle mozzarella cheese evenly and add toppings.",
+      "Bake for 12-15 minutes or until the crust is golden."
+    ]
+  },
+  {
+  "slug": "syrniki",
+  "title": "Syrniki with Berries",
+  "image": "syrniki.jpg",
+  "ingredients": [
+    "250g cottage cheese",
+    "1 egg",
+    "3 tbsp flour",
+    "2 tbsp sugar",
+    "Pinch of salt",
+    "Butter for frying",
+    "Fresh berries for serving",
+    "Sour cream or yogurt"
+  ],
+  "steps": [
+    "Mix cottage cheese, egg, flour, sugar, and salt until smooth.",
+    "Form small patties from the mixture.",
+    "Heat butter in a pan over medium heat.",
+    "Fry patties until golden brown on both sides.",
+    "Serve with fresh berries and sour cream."
+  ]
+}
+
+]
